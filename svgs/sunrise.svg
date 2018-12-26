@@ -33,6 +33,7 @@
             -o-animation-duration: 12s;
             -o-animation-direction: normal;
             transform-origin: 50% 50%;
+            transform-box: fill-box;
             animation-iteration-count: infinite;
             animation-timing-function: linear;
             animation-duration: 12s;
